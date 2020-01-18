@@ -1,0 +1,14 @@
+C:\Users\kubaw\Source\Repos\AlgorytmyGenetyczne\GenApp\GenApp\bin\Debug\GenApp.exe.config
+C:\Users\kubaw\Source\Repos\AlgorytmyGenetyczne\GenApp\GenApp\bin\Debug\GenApp.exe
+C:\Users\kubaw\Source\Repos\AlgorytmyGenetyczne\GenApp\GenApp\bin\Debug\GenApp.pdb
+C:\Users\kubaw\Source\Repos\AlgorytmyGenetyczne\GenApp\GenApp\obj\Debug\GenApp.csprojAssemblyReference.cache
+C:\Users\kubaw\Source\Repos\AlgorytmyGenetyczne\GenApp\GenApp\obj\Debug\MainWindow.g.cs
+C:\Users\kubaw\Source\Repos\AlgorytmyGenetyczne\GenApp\GenApp\obj\Debug\App.g.cs
+C:\Users\kubaw\Source\Repos\AlgorytmyGenetyczne\GenApp\GenApp\obj\Debug\GenApp_MarkupCompile.cache
+C:\Users\kubaw\Source\Repos\AlgorytmyGenetyczne\GenApp\GenApp\obj\Debug\GenApp_MarkupCompile.lref
+C:\Users\kubaw\Source\Repos\AlgorytmyGenetyczne\GenApp\GenApp\obj\Debug\MainWindow.baml
+C:\Users\kubaw\Source\Repos\AlgorytmyGenetyczne\GenApp\GenApp\obj\Debug\GenApp.g.resources
+C:\Users\kubaw\Source\Repos\AlgorytmyGenetyczne\GenApp\GenApp\obj\Debug\GenApp.Properties.Resources.resources
+C:\Users\kubaw\Source\Repos\AlgorytmyGenetyczne\GenApp\GenApp\obj\Debug\GenApp.csproj.GenerateResource.cache
+C:\Users\kubaw\Source\Repos\AlgorytmyGenetyczne\GenApp\GenApp\obj\Debug\GenApp.exe
+C:\Users\kubaw\Source\Repos\AlgorytmyGenetyczne\GenApp\GenApp\obj\Debug\GenApp.pdb

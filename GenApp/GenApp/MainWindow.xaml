@@ -14,5 +14,43 @@
             <RowDefinition/>
             <RowDefinition/>
         </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal">
+            <TextBox Height="20" Width="30" x:Name="XY1digit"></TextBox>
+            <TextBlock VerticalAlignment="Center">XY</TextBlock>
+            <TextBox Height="20" Width="30" x:Name="XY1power"></TextBox>
+            <TextBlock VerticalAlignment="Center">+</TextBlock>
+            <TextBox Height="20" Width="30" x:Name="XY2digit"></TextBox>
+            <TextBlock VerticalAlignment="Center">XY</TextBlock>
+            <TextBox Height="20" Width="30" x:Name="XY2power"></TextBox>
+            <TextBlock VerticalAlignment="Center">+</TextBlock>
+            <TextBox Height="20" Width="30" x:Name="XY3digit"></TextBox>
+            <TextBlock VerticalAlignment="Center">XY</TextBlock>
+            <TextBox Height="20" Width="30" x:Name="XY3power"></TextBox>
+            <TextBlock VerticalAlignment="Center">+</TextBlock>
+            <TextBox Height="20" Width="30" x:Name="Xdigit"></TextBox>
+            <TextBlock VerticalAlignment="Center">X</TextBlock>
+            <TextBox Height="20" Width="30" x:Name="Xpower"></TextBox>
+            <TextBlock VerticalAlignment="Center">+</TextBlock>
+            <TextBox Height="20" Width="30" x:Name="Ydigit"></TextBox>
+            <TextBlock VerticalAlignment="Center">Y</TextBlock>
+            <TextBox Height="20" Width="30" x:Name="Ypower"></TextBox>
+            <TextBlock VerticalAlignment="Center">+</TextBlock>
+            <TextBox Height="20" Width="30" x:Name="constDigit"></TextBox>
+        </StackPanel>
+        <StackPanel Grid.Row="1" VerticalAlignment="Top" Orientation="Horizontal">
+            <TextBlock Text="Wielkość populacji: "/>
+            <TextBox x:Name="populacjaTextBox" Height="20" Width="30"></TextBox>
+        </StackPanel>
+        <StackPanel VerticalAlignment="Center"  Grid.Row="1" Orientation="Horizontal">
+            <TextBlock Text="Ilość iteracji: "/>
+            <TextBox x:Name="iteracjeTextBox" Height="20" Width="30"></TextBox>
+        </StackPanel>
+        <StackPanel VerticalAlignment="Bottom" Grid.Row="1" Orientation="Horizontal">
+            <TextBlock Text="Zakres zmiennych: "/>
+            <TextBox x:Name="zmienneTextBox1" Height="20" Width="30"></TextBox>
+            <TextBlock Text="-"/>
+            <TextBox x:Name="zmienneTextBox2" Height="20" Width="30"></TextBox>
+        </StackPanel>
+        <Button x:Name="wynikButton" Height="30" Width="70" Grid.Row="1" HorizontalAlignment="Right" VerticalAlignment="Bottom">Wynik</Button>
     </Grid>
 </Window>
